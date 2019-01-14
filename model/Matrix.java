@@ -31,7 +31,7 @@ public class Matrix {
 	public int getNcols() {
 		return ncols;
 	}
-
+	//soma comment
 	public void setNcols(int ncols) {
 		this.ncols = ncols;
 	}
